@@ -1,0 +1,26 @@
+{
+    "name": "guangrei/nodejs",
+    "description": "nodejs starter for replit",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "guangrei"
+        }
+    ],
+    "require": {
+        "mouf/nodejs-installer": "~1.0"
+    },
+    "extra": {
+        "mouf": {
+            "nodejs": {
+                "version": "~20.8.0", 
+                "forceLocal": false
+            }
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "mouf/nodejs-installer": true
+        }
+    }
+}
