@@ -8,11 +8,11 @@ Easy install and run any nodejs version on replit.com
 
 now you can run `nodejs` and `npm` by typing `./vendor/bin/node` and `./vendor/bin/npm` also you can add to `PATH`, from secrets with adding key `PATH` and value `~/replname/vendor/bin:$PATH` (make sure to replace replname with your repl name).
 
-demo express.js https://express.latihantik.repl.co
+demo express.js https://nodejs-installer.latihantik.repl.co
 
 ## links
 
-repl: https://replit.com/@latihantik/express?v=1
+repl: https://replit.com/@latihantik/nodejs-installer?v=1
 
 github: https://github.com/cirebon-dev/replit_nodeinstaller
 
